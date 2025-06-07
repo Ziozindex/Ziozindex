@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm passionate about creating beautiful, responsiv
 
 **Frontend:**
 - HTML, CSS, JS
+  
 **Development Tools:**
 - GitHub
 - Vercel
